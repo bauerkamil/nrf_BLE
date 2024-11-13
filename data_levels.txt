@@ -1,0 +1,30 @@
+-----co2: 6-levels-----
+400 ppm: average outdoor air level.
+400–1,000 ppm: typical level found in occupied spaces with good air exchange.
+1,000–2,000 ppm: level associated with complaints of drowsiness and poor air.
+2,000–5,000 ppm: level associated with headaches, sleepiness, and stagnant, stale, stuffy air. Poor concentration, loss of attention, increased heart rate and slight nausea may also be present.
+5,000 ppm: this indicates unusual air conditions where high levels of other gases could also be present. Toxicity or oxygen deprivation could occur. This is the permissible exposure limit for daily workplace exposures.
+40,000 ppm: this level is immediately harmful due to oxygen deprivation.
+
+-----eVOC: 4 levels-----
+0 to 400 ppb: This is the acceptable level of VOC indoors. You should not expect short-term effects such as irritation or discomfort.
+
+400 to 2,200 ppb:  Short-term exposure can result in noticeable effects such as headaches, nausea, dizziness, and irritation of the respiratory tract and eyes. When the VOC level goes beyond 800 ppb, increased ventilation is necessary to improve air quality. It’s recommended to identify the sources of VOCs and eliminate them.
+
+400-800 
+
+2,200 to 30,000 ppb:   This is an unhealthy level of VOC indoors. Short-term exposure can cause dizziness, nausea, and loss of coordination. Long-term exposure to high levels of VOC can cause liver and kidney damage, respiratory and cardiovascular diseases, and cancer. Take immediate action to improve air quality by increasing ventilation and removing products that emit gasses.
+
+-----temperature: 16 levels----- 
+range 16-32*C integers, giving 16 levels
+
+-----humidity: 16 levels-----
+20-95, with 5% increments
+Ideal Humidity Range
+Ideal Range: 30-50% relative humidity (RH)
+Below 30%: Too dry. May cause skin, eye, and respiratory irritation, and dry out wood, leading to cracking in floors and furniture.
+Above 50%: Too humid. Risks mold growth, dust mites, and can affect respiratory health, particularly in people with allergies or asthma.
+Humidity Danger Levels
+Below 20% RH (Dangerously Low): Can lead to very dry indoor air, aggravating respiratory issues, drying out mucous membranes, and causing skin irritation. Extremely low humidity is often seen in heated homes during winter.
+Above 60% RH (Warning Level): Mold and dust mites start to thrive, and there's an increased chance of condensation on windows, walls, or furniture, potentially causing damage.
+Above 70-80% RH (Dangerously High): Significant risk for mold growth, bacteria, and dust mites. High humidity can cause severe structural issues over time, such as wood rot and paint damage. Prolonged exposure to such high humidity levels can lead to serious health risks, including respiratory infections.
