@@ -48,6 +48,18 @@ ssize_t write_led_control(struct bt_conn *conn, const struct bt_gatt_attr *attr,
     case 4:
         gpio_pin_set(led_device, LED4_PIN, 0);
         break;
+    case 5:
+        gpio_pin_set(led_device, LED1_PIN, 1);
+        break;
+    case 6:
+        gpio_pin_set(led_device, LED2_PIN, 1);
+        break;
+    case 7:
+        gpio_pin_set(led_device, LED3_PIN, 1);
+        break;
+    case 8:
+        gpio_pin_set(led_device, LED4_PIN, 1);
+        break;
     case 0:
         gpio_pin_set(led_device, LED1_PIN, 1);
         gpio_pin_set(led_device, LED2_PIN, 1);
